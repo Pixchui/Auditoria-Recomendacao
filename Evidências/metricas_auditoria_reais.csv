@@ -1,0 +1,5 @@
+﻿Métrica,Valor,Resultado
+Acurácia,0.57,57.00%
+Precisão (Precision),0.81,81.00%
+Revocação (Recall),0.34615384615384615,34.62%
+F1-Score,0.48502994011976047,48.50%

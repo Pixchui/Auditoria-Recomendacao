@@ -1,0 +1,101 @@
+﻿livro_base,livro_recomendado,autor,similaridade_cosseno,generos_em_comum,relevante_pelo_criterio_generos
+...And Ladies of the Club,The Persian Pickle Club,Sandra Dallas,0.2758,"adult fiction, chick lit, fiction, historical, historical fiction, novels",True
+...And Ladies of the Club,Tyler,C.H. Admirand (Goodreads Author),0.2545,"fiction, romance",True
+...And Ladies of the Club,Two Serious Ladies,Jane Bowles,0.2306,"classics, fiction, novels, womens",True
+...And Ladies of the Club,The Unbearable Book Club for Unsinkable Girls,Julie Schumacher,0.221,"chick lit, fiction",True
+...And Ladies of the Club,The Bestseller,Olivia Goldsmith,0.2208,"chick lit, fiction, romance",True
+...And Ladies of the Club,Dear Pen Pal,Heather Vogel Frederick,0.2091,"chick lit, fiction, romance",True
+...And Ladies of the Club,My Friend Leonard,James Frey,0.2057,"adult fiction, fiction, literary fiction, novels",True
+...And Ladies of the Club,Kći Lotršćaka,Marija Jurić Zagorka,0.2046,"classics, fiction, historical, historical fiction, romance",True
+...And Ladies of the Club,A Perfectly Good Man,Patrick Gale,0.2032,"fiction, literary fiction, novels",True
+...And Ladies of the Club,The Mermaid Chair,Sue Monk Kidd (Goodreads Author),0.1989,"adult fiction, chick lit, fiction, novels, romance, womens",True
+Power of Persuasion,Immortal,"Christopher Golden (Goodreads Author), Nancy Holder (Goodreads Author), Joss Whedon (Creator)",0.4737,"buffy the vampire slayer, fantasy, fiction, horror, media tie in, paranormal, supernatural, urban fantasy, vampires, young adult",True
+Power of Persuasion,Buffy the Vampire Slayer: Wolves at the Gate,"Drew Goddard, Georges Jeanty (Artist), Joss Whedon (Executive Producer)",0.4653,"buffy the vampire slayer, fantasy, fiction, horror, paranormal, urban fantasy, vampires",True
+Power of Persuasion,Buffy the Vampire Slayer: The Long Way Home,"Joss Whedon, Georges Jeanty (Artist)",0.4622,"buffy the vampire slayer, fantasy, fiction, horror, paranormal, urban fantasy, vampires",True
+Power of Persuasion,Tempted Champions,"Yvonne Navarro (Goodreads Author), Joss Whedon (Creator)",0.459,"buffy the vampire slayer, fantasy, fiction, horror, media tie in, paranormal, vampires, young adult",True
+Power of Persuasion,The Book of Fours,"Nancy Holder (Goodreads Author), Joss Whedon (Creator)",0.4393,"buffy the vampire slayer, fantasy, fiction, horror, media tie in, paranormal, supernatural, urban fantasy, vampires, young adult",True
+Power of Persuasion,Sex and the Slayer: A Gender Studies Primer for the Buffy Fan,Lorna Jowett,0.4276,"buffy the vampire slayer, vampires",True
+Power of Persuasion,Sons of Entropy,"Christopher Golden (Goodreads Author), Nancy Holder (Goodreads Author), Joss Whedon (Creator)",0.3886,"buffy the vampire slayer, fantasy, fiction, horror, media tie in, paranormal, supernatural, urban fantasy, vampires, young adult",True
+Power of Persuasion,Revenant,"Mel Odom, Joss Whedon (Creator)",0.3752,"buffy the vampire slayer, fantasy, fiction, horror, media tie in, paranormal, supernatural, urban fantasy, vampires, young adult",True
+Power of Persuasion,Buffy the Vampire Slayer: Twilight,"Brad Meltzer (Goodreads Author), Georges Jeanty (Artist), Joss Whedon (Executive Producer)",0.3575,"buffy the vampire slayer, fantasy, fiction, horror, paranormal, urban fantasy, vampires",True
+Power of Persuasion,Apocalypse Memories,"Laura J. Burns (Goodreads Author), Melinda Metz (Goodreads Author), Joss Whedon (Creator)",0.3137,"buffy the vampire slayer, fantasy, fiction, horror, paranormal, supernatural, urban fantasy, vampires, young adult",True
+Brief Interviews with Hideous Men,Although of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace,David Lipsky,0.5168,"american, audiobook, essays, literature",True
+Brief Interviews with Hideous Men,The Pale King,David Foster Wallace,0.4266,"american, audiobook, contemporary, fiction, literary fiction, literature, unfinished",True
+Brief Interviews with Hideous Men,"This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life",David Foster Wallace,0.3724,"american, audiobook, essays, short stories",True
+Brief Interviews with Hideous Men,A Supposedly Fun Thing I'll Never Do Again: Essays and Arguments,David Foster Wallace,0.3557,"american, essays, humor, literature, short stories, unfinished",True
+Brief Interviews with Hideous Men,Consider the Lobster and Other Essays,David Foster Wallace,0.331,"american, contemporary, essays, humor, literature, short stories, unfinished",True
+Brief Interviews with Hideous Men,Yes Man,Danny Wallace,0.3073,humor,True
+Brief Interviews with Hideous Men,Great American Short Stories,"Wallace Stegner, Mary Stegner (Editor)",0.2957,"american, fiction, literature, short stories",True
+Brief Interviews with Hideous Men,Breakable,Tammara Webber (Goodreads Author),0.2743,"contemporary, fiction",True
+Brief Interviews with Hideous Men,A Wind in the Door,Madeleine L'Engle,0.2637,"audiobook, fiction",True
+Brief Interviews with Hideous Men,Braveheart,Randall Wallace (Goodreads Author),0.2593,fiction,True
+Beyond Duty,The Táin: From the Irish Epic Táin Bó Cúailnge,"Anonymous, Thomas Kinsella (Translator), Louis Le Brocquy (Illustrator)",0.3303,,False
+Beyond Duty,Vision in White,Nora Roberts (Goodreads Author),0.3214,"adult, contemporary, contemporary romance, romance",True
+Beyond Duty,Darkest Day,Emi Gayle (Goodreads Author),0.3174,romance,True
+Beyond Duty,The Fever Series,Karen Marie Moning (Goodreads Author),0.3132,"adult, romance",True
+Beyond Duty,Shadowfever,Karen Marie Moning (Goodreads Author),0.3112,"adult, romance",True
+Beyond Duty,A Shattered Moment,Tiffany King (Goodreads Author),0.2892,"contemporary, contemporary romance, romance",True
+Beyond Duty,Double Dare,Cathy Hopkins,0.2846,"contemporary, romance",True
+Beyond Duty,Pulling His Trigger,Alexa Riley (Goodreads Author),0.2819,"adult, contemporary, contemporary romance, erotica, military fiction, romance",True
+Beyond Duty,The Baker's Apprentice,Judi Hendricks (Goodreads Author),0.2778,"contemporary, romance",True
+Beyond Duty,"Mac, el microbio desconocido",Hernán del Solar,0.2617,,False
+Chasing Moonlight,Raven,Lauren Oliver (Goodreads Author),0.2103,romance,True
+Chasing Moonlight,Raven's Cravings,Angel Williams,0.2024,,False
+Chasing Moonlight,Nightchild,James Barclay (Goodreads Author),0.2017,,False
+Chasing Moonlight,Miss Nobody,Nicole Dunlap (Goodreads Author),0.2012,romance,True
+Chasing Moonlight,The Raven,Sylvain Reynard (Goodreads Author),0.1959,romance,True
+Chasing Moonlight,Love Bites,Ellen Schreiber,0.1896,romance,True
+Chasing Moonlight,"All My Love, Detrick",Roberta Kagan (Goodreads Author),0.183,"historical, historical fiction, historical romance, romance",True
+Chasing Moonlight,Immortal Hearts,Ellen Schreiber,0.1814,romance,True
+Chasing Moonlight,Shadowheart,James Barclay (Goodreads Author),0.1776,,False
+Chasing Moonlight,Teen Titans: Raven,"Kami Garcia (Goodreads Author), Gabriel Picolo (Illustrator)",0.1775,,False
+Hercule Poirot: The Complete Short Stories,How Does Your Garden Grow? and Other Stories,Agatha Christie,0.6155,"classics, crime, detective, fiction, mystery, short stories",True
+Hercule Poirot: The Complete Short Stories,"Poirot: The Complete Battles of Hastings, Vol. 1",Agatha Christie,0.581,"classics, crime, fiction, mystery",True
+Hercule Poirot: The Complete Short Stories,Third Girl,Agatha Christie,0.5766,"british literature, classics, crime, detective, fiction, mystery, mystery thriller, thriller",True
+Hercule Poirot: The Complete Short Stories,Curtain,Agatha Christie,0.5557,"british literature, classics, crime, detective, fiction, mystery, mystery thriller, thriller",True
+Hercule Poirot: The Complete Short Stories,Four and Twenty Blackbirds,Agatha Christie,0.5506,"british literature, classics, crime, detective, fiction, mystery, mystery thriller, short stories",True
+Hercule Poirot: The Complete Short Stories,The Mysterious Affair at Styles,Agatha Christie,0.5435,"british literature, classics, crime, detective, fiction, mystery, mystery thriller, thriller",True
+Hercule Poirot: The Complete Short Stories,The Regatta Mystery and Other Stories,Agatha Christie,0.5319,"british literature, classics, crime, detective, fiction, mystery, mystery thriller, short stories",True
+Hercule Poirot: The Complete Short Stories,Hickory Dickory Dock,"Agatha Christie, Hugh Fraser (Narrator)",0.5272,"british literature, classics, crime, detective, fiction, mystery, mystery thriller",True
+Hercule Poirot: The Complete Short Stories,The Labours of Hercules,"Agatha Christie, Hugh Fraser (Narrator)",0.5262,"british literature, classics, crime, detective, fiction, mystery, mystery thriller, short stories, thriller",True
+Hercule Poirot: The Complete Short Stories,Sad Cypress,Agatha Christie,0.5251,"british literature, classics, crime, detective, fiction, mystery, mystery thriller, thriller",True
+Letters of E.B. White,Writings from The New Yorker 1927-1976,"E.B. White, Rebecca M. Dale (Editor)",0.3827,"classics, essays, history, nonfiction, writing",True
+Letters of E.B. White,Essays of E.B. White,E.B. White,0.3108,"biography, classics, essays, literature, memoir, nonfiction, writing",True
+Letters of E.B. White,Here Is New York,"E.B. White, Roger Angell (Introduction), Barbara Cohen (Editor), Judith Stonehill (Editor)",0.3015,"classics, essays, history, literature, memoir, nonfiction",True
+Letters of E.B. White,White Fragility: Why It's So Hard for White People to Talk About Racism,"Robin DiAngelo, Michael Eric Dyson (Foreword)",0.2878,"history, nonfiction",True
+Letters of E.B. White,Changing the White Woman in the Mirror,Raymond Sturgis (Goodreads Author),0.2838,,False
+Letters of E.B. White,"Are You Watching, Liverpool?",Jim White,0.252,,False
+Letters of E.B. White,The Sunset Limited,"Cormac McCarthy, مجید حاتمی (مترجم)",0.2475,literature,True
+Letters of E.B. White,Letters from a Father to his Daughter,Jawaharlal Nehru,0.2453,"biography, classics, history, literature, memoir, nonfiction",True
+Letters of E.B. White,The Once and Future King,T.H. White,0.2365,"classics, literature",True
+Letters of E.B. White,White Fang,"Jack London, مها محمود صالح (Goodreads Author) (Translator)",0.2253,"classics, literature",True
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction","Quail Diseases: Identification And Management Of Stress, Vices, And Diseases In Quails",Francis Okumu,0.4064,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction",The Coming Plague: Newly Emerging Diseases in a World Out of Balance,Laurie Garrett,0.3547,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction","Chicken Diseases: Identification And Management Of Stress, Vices, And Diseases In Chickens",Francis Okumu,0.3283,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction","Defeat Chronic Pain Now!: Groundbreaking Strategies for Eliminating the Pain of Arthritis, Back and Neck Conditions, Migraines, Diabetic Neuropathy, and Chronic Illness","Bradley S. Galer, Charles E. Argoff",0.3205,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction","The Story of the Human Body: Evolution, Health, and Disease",Daniel E. Lieberman,0.2591,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction",Diary of A Sick Chick: A Year in The Life of A Chronically Ill Woman,Sonya Dickerson (Goodreads Author),0.2085,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction",Dakota Son,Mary Ramsey (Goodreads Author),0.1909,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction",The Henry Root Letters,Henry Root,0.1846,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction",Infidelity,Paul Ferris,0.1825,,False
+"The Removable Root Cause of Cancers and other Chronic Diseases : The Effort Theory of Evolution, Chronic Diseases and Extinction","Healing Pain: The Innovative, Breakthrough Plan to Overcome Your Physical Pain and Emotional Suffering","Ann M. Berger, C.B. deSwaan",0.1785,,False
+There Are Doors,Doors of Stone,Patrick Rothfuss (Goodreads Author),0.3345,"fantasy, fiction, novels, science fiction, science fiction fantasy",True
+There Are Doors,The Book of the New Sun,Gene Wolfe,0.2824,"fantasy, fiction, literature, novels, science fiction, science fiction fantasy, speculative fiction",True
+There Are Doors,The Modern World,Steph Swainston,0.2783,"fantasy, fiction, science fiction, science fiction fantasy, speculative fiction",True
+There Are Doors,Sword & Citadel,Gene Wolfe,0.277,"fantasy, fiction, literature, novels, science fiction, science fiction fantasy, speculative fiction",True
+There Are Doors,The Sword of the Lictor,Gene Wolfe,0.2585,"fantasy, fiction, novels, science fiction, science fiction fantasy, speculative fiction",True
+There Are Doors,Shadow & Claw,Gene Wolfe,0.2503,"fantasy, fiction, novels, science fiction, science fiction fantasy, speculative fiction",True
+There Are Doors,The Swordswoman,Jessica Amanda Salmonson,0.2492,"fantasy, fiction, science fiction, science fiction fantasy",True
+There Are Doors,Mallworld,Somtow Sucharitkul,0.2481,"fiction, science fiction, science fiction fantasy",True
+There Are Doors,Sługa Boży,Jacek Piekara,0.2474,"fantasy, fiction, sci fi fantasy, speculative fiction",True
+There Are Doors,The Shadow of the Torturer,Gene Wolfe,0.2391,"fantasy, fiction, novels, science fiction, science fiction fantasy, speculative fiction",True
+Theodosia and the Staff of Osiris,Theodosia and the Serpents of Chaos,R.L. LaFevers (Goodreads Author),0.4191,"adventure, childrens, fantasy, fiction, historical, historical fiction, middle grade, mystery, mythology, young adult",True
+Theodosia and the Staff of Osiris,Terayama Shūji gekijō bijutsukan =: The Terayama Shuji theatre-museum,Terayama Henrik,0.3123,,False
+Theodosia and the Staff of Osiris,Museum of Thieves,Lian Tanner (Goodreads Author),0.304,"adventure, childrens, fantasy, fiction, middle grade, mystery, young adult",True
+Theodosia and the Staff of Osiris,The Time Museum,Matthew Loux,0.2962,"adventure, childrens, fantasy, fiction, middle grade, young adult",True
+Theodosia and the Staff of Osiris,The Book of the Dead,"Douglas Preston (Goodreads Author), Lincoln Child",0.2511,"adventure, fantasy, fiction, mystery",True
+Theodosia and the Staff of Osiris,Relic,"Douglas Preston (Goodreads Author), Lincoln Child",0.2495,"adventure, fantasy, fiction, mystery",True
+Theodosia and the Staff of Osiris,The Museum of Extraordinary Things,Alice Hoffman (Goodreads Author),0.2312,"fantasy, fiction, historical, historical fiction, mystery",True
+Theodosia and the Staff of Osiris,Theodosia and the Eyes of Horus,R.L. LaFevers (Goodreads Author),0.2292,"adventure, childrens, fantasy, fiction, historical fiction, middle grade, mystery, mythology, young adult",True
+Theodosia and the Staff of Osiris,The Golden Goblet,Eloise Jarvis McGraw,0.2213,"adventure, childrens, fiction, historical, historical fiction, middle grade, young adult",True
+Theodosia and the Staff of Osiris,Theodosia and the Last Pharaoh,R.L. LaFevers (Goodreads Author),0.2147,"adventure, childrens, fantasy, fiction, historical, historical fiction, middle grade, mystery, mythology, young adult",True

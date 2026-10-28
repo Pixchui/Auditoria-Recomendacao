@@ -1,0 +1,6 @@
+﻿teste,entrada,resultado_validacao_simulada,entrada_aceita
+1. Entrada muito longa,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA…,Título não encontrado no CSV.,False
+2. Título inexistente,XYZ Livro Que Não Existe 123,Título não encontrado no CSV.,False
+3. Campo vazio,,Digite o título de um livro.,False
+4. Palavras adicionais,The Hunger Games edição especial 2026,Título não encontrado no CSV.,False
+5. Espaços e minúsculas,  the hunger games  ,The Hunger Games,True

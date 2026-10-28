@@ -1,0 +1,18 @@
+Registros CSV: 52478
+Matriz TF-IDF: 52478 documentos x 10000 termos
+
+MÉTRICAS APROXIMADAS
+Acurácia: 0.5700 (57.00%)
+Precisão (Precision): 0.8100 (81.00%)
+Revocação (Recall): 0.3462 (34.62%)
+F1-Score: 0.4850 (48.50%)
+
+INFLUÊNCIA DOS CAMPOS
+description: 53.33% (por livro: 100.0%, 10.0%, 50.0%)
+genres: 30.00% (por livro: 60.0%, 20.0%, 10.0%)
+author: 23.33% (por livro: 40.0%, 0.0%, 30.0%)
+title: 20.00% (por livro: 50.0%, 0.0%, 10.0%)
+characters: 13.33% (por livro: 10.0%, 0.0%, 30.0%)
+language: 6.67% (por livro: 20.0%, 0.0%, 0.0%)
+
+Nota: métricas usam gênero em comum como aproximação de relevância.
